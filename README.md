@@ -1,4 +1,4 @@
-UAE Currency Symbol
+**UAE Currency Symbol - 2025**
 
 This repository contains the United Arab Emirates Dirham (AED) currency symbol in font formats.
 
@@ -21,13 +21,20 @@ Linux: Copy to ~/.fonts/ or /usr/share/fonts/
 
 **Use in CSS (Web Fonts):**
 
-css
+_**css**_
+
 @font-face {
+
   font-family: 'UAEDirham';
+  
   src: url('UAECurrencySymbolFont-Rg.woff') format('Web open font');
+  
 }
+
 .currency {
+
   font-family: 'UAEDirham', sans-serif;
+  
 }
 
 **License**
